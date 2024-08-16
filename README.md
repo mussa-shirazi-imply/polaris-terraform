@@ -1,1 +1,1 @@
-# polaris-terraform
+# terraform-provider-polaris
